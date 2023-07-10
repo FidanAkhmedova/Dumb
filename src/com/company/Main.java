@@ -6,7 +6,7 @@ public class Main {
         Integer iOb1 = 100;
         Integer iOb2 = 100;
         System.out.println(iOb1 == iOb2);
-
+        System.out.println("----------------");
 
 
 for (Level myLevel: Level.values()){
