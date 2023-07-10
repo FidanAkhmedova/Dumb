@@ -1,2 +1,4 @@
 # Project exclude paths
+*/.README.md.swp
+vcs.xml
 /out/
